@@ -1,0 +1,17 @@
+.scoreboardBg {
+  background-color: rgba(75, 75, 153, 0.912);
+  border: rgba(104, 104, 206, 0.775) 4px solid;
+}
+
+.score {
+  font-size: 15em;
+  background-color: rgba(104, 104, 206, 0.69);
+  border: rgba(0, 0, 255, 0.643) 4px solid;
+}
+
+.heroImage {
+  background-image: url(https://images.unsplash.com/photo-1525876902033-8da51fbe1e59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
